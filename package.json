@@ -1,0 +1,24 @@
+{
+  "name": "vite-pixijs",
+  "version": "1.0.0",
+  "description": "Vite PixiJS Template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vite",
+    "PixiJS"
+  ],
+  "devDependencies": {
+    "vite": "^5.0.12"
+  },
+  "author": "Christo Oosthuizen",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^7.3.3"
+  }
+}
